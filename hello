@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+	printf("what is your name:\n);
+	printf("my name is ...\n");
+	printf("hello,my friend!\n");
+}
+
+
