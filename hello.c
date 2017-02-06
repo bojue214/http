@@ -15,7 +15,7 @@ int main()
 	int set=1;
 	cout<< "this is  a test"<< endl;
 	cout<<	"hello wrold"<< endl;
-
+	cout<<"merge branch"<<endl;
 	cout<<"this is a branch test"<<endl;
 }
 
